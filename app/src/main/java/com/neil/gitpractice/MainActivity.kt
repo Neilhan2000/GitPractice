@@ -33,6 +33,8 @@ class MainActivity : AppCompatActivity() {
         // hahahahahahahahah
         // shashasha
         // lalala
+        // guagua
+        // brabra
         setupActionBarWithNavController(navController, appBarConfiguration)
         navView.setupWithNavController(navController)
         // not fast-forward
