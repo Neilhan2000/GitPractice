@@ -34,5 +34,6 @@ class MainActivity : AppCompatActivity() {
         // shashasha
         setupActionBarWithNavController(navController, appBarConfiguration)
         navView.setupWithNavController(navController)
+        // not fast-forward
     }
 }
