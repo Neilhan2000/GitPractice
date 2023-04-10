@@ -31,6 +31,7 @@ class MainActivity : AppCompatActivity() {
             )
         )
         // hahahahahahahahah
+        // shashasha
         setupActionBarWithNavController(navController, appBarConfiguration)
         navView.setupWithNavController(navController)
     }
